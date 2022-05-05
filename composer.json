@@ -1,0 +1,12 @@
+{
+    "name": "beauval/animals",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "require": {
+        "php": ">=7.4",
+        "ext-json": "*"
+    }
+}
